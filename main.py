@@ -1,6 +1,6 @@
 from menu import MENU
 from resources import resources
-from money import MONEY
+
 
 
 def report():
